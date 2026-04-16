@@ -24,6 +24,10 @@ Perfect for beginners learning about loops, conditionals, and user input in Pyth
 4. The game congratulates the player when they win.
 
 ---
+🛠️ Technologies Used
+Python 3
+Built-in module:
+random
 
 ▶️ How to Run
 Install Python (if not already installed)

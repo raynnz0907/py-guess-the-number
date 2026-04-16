@@ -39,16 +39,10 @@ python guess.py
 Feel free to open issues or submit pull requests to improve the game!
 
 📄 License
-This project is open-source and available under the MIT License.
-
-yaml
-Copy code
-
+This project is open-sourced.
 ---
 
 If you want, I can also:  
 ✅ Add advanced features to the code  
 ✅ Make a version with difficulty levels  
 ✅ Add a flowchart or screenshots for README  
-
-Just tell me!
